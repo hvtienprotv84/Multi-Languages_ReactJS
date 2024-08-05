@@ -125,3 +125,14 @@
   bottom: 0;
   margin-bottom:10px;
 }
+
+@media screen and (max-width: 768px) {
+  .copyright_myname{
+    font-size: 12px;
+  }
+
+  .copyright_version{
+    font-size: 12px;
+  }
+
+}
