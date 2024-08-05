@@ -7,7 +7,7 @@ export default function Explore() {
     return (
       <div>
         <h1><Text tid="exploreHeader" /></h1>
-        <p><Text tid="welcomeDescription" /></p>
+        <h2><b><Text tid="welcomeDescription" /></b></h2>
       </div>
     );
   }
